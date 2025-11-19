@@ -1,8 +1,7 @@
 Project Overview
 This repository analyzes customer churn using machine learning models (Decision Trees and Logistic Regression) to identify key factors driving attrition and help design targeted retention strategies. It includes data preprocessing, feature engineering, modeling, validation, model comparison, and interpretability with business-focused evaluation metrics like gains and lift charts.
 
-Data
-Source: Kaggle
+Data Source: Kaggle
 
 Features: Age, Tenure, Usage Frequency, Support Calls, Payment Delay, Total Spend, Last Interaction, categorical/demographic features, and target variable 'Churn'.
 
